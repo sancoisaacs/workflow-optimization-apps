@@ -1,49 +1,65 @@
 # Behavioral Systems Repository
 
-Behavioral and productivity engines designed to improve focus, adherence, and execution consistency in high-demand environments.
+Applied behavioral tooling built to regulate attention, timing, and execution reliability in demanding operational environments.
 
 ---
 
-## Purpose
-These applications enhance human performance by structuring time, attention, and task execution through measurable feedback systems. Each tool converts invisible behavioral patterns into visible metrics that can be optimized.
+## What This Repository Is
+This collection focuses on human-performance instrumentation rather than data analytics.  
+Each application acts as a behavioral feedback device that helps users see, measure, and correct their own working patterns in real time.
 
 ---
 
-## Core Capabilities
-- Focus state tracking
-- Schedule adherence monitoring
-- Behavioral reinforcement loops
-- Productivity gamification
-- Real-time performance feedback
+## Why It Exists
+Most productivity failures are not skill problems — they are visibility problems.
+
+These systems solve that by exposing hidden variables such as:
+• time drift
+• attention decay
+• schedule deviation
+• execution lag
+
+Once visible, behavior becomes adjustable.
 
 ---
 
-## Included Systems
-- Focus Timers
-- Adherence Tracking Dashboards
-- Execution Monitoring Tools
-- Performance Reinforcement Engines
+## Functional Capabilities
+• Real-time focus monitoring  
+• Schedule adherence detection  
+• Pattern-based behavioral feedback  
+• Reinforcement-driven productivity loops  
+• Execution consistency tracking  
 
 ---
 
-## Architecture Principles
-- Client-side processing only
-- Instant response interfaces
-- No external infrastructure required
-- Deterministic logic first, AI optional
+## Included Application Types
+• Focus regulation timers  
+• Adherence monitoring dashboards  
+• Execution tracking interfaces  
+• Reinforcement-driven workflow tools  
 
 ---
 
-## Tech Stack
+## Design Model
+All tools follow the same behavioral control cycle:
+
+signal → awareness → correction → stabilization
+
+---
+
+## Engineering Constraints
+• Runs entirely client-side  
+• No server dependency  
+• Instant feedback priority  
+• Works in restricted environments  
+• Deterministic logic before AI assistance  
+
+---
+
+## Technology Foundation
 Vanilla JavaScript • Canvas API • Notification API • Tailwind CSS
 
 ---
 
-## Design Philosophy
-These tools are built on behavioral engineering principles:  
-visibility → awareness → adjustment → improvement.
-
----
-
-## Summary
-This repository demonstrates applied behavioral systems design for operational environments where focus, timing, and execution consistency directly impact performance.
+## Repository Intent
+This repository represents practical behavioral engineering applied to real work environments where performance is determined not by knowledge, but by execution discipline.
